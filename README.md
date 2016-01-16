@@ -1,4 +1,4 @@
-Documents will be added here.
+More documents will be added here.
 
-Documentation is Wikified:
+THe documentation is Wikified:
 https://github.com/REAS/studio/wiki
