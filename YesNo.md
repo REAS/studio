@@ -20,7 +20,8 @@ Draw a grid of 40 x 25 units. Find a coin and define one side as A and the other
 
 *Stratum 1.2.2* 
 
-```size(3200, 2000);  
+```
+size(3200, 2000);  
 background(255);  
 for (int y = 0; y < height; y += 80) {  
  for (int x = 0; x < width; x += 80) {  
@@ -30,4 +31,5 @@ for (int y = 0; y < height; y += 80) {
    line(x, y+80, x+80, y);  
   }   
  }   
-}```
+}
+```
