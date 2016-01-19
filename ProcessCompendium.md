@@ -37,6 +37,18 @@ Elements
 
 //
 
+Process 20  
+
+TK
+
+//
+
+Process 19  
+
+TK
+
+//
+
 Process 18  
 
 A rectangular surface filled with instances of Element 5, each with a different size and gray value. Draw a quadrilateral connecting the endpoints of each pair of Elements that are touching. Increase the opacity of the quadrilateral while the Elements are touching and decrease while they are not. 
