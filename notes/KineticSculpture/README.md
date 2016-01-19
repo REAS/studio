@@ -100,15 +100,15 @@ Reprint of articles written by kinetic artists, originally published in journal 
        
   [17]  Moholy-Nagy, Laszlo. Vision In Motion. Paul Theobald, Chicago. 1947 Visionary self-authored retrospective.   
        
-  [18]  Moravec, Hans. “The Universal Robot.” In Arts Electronica, Facing the Future. MIT Press, Cambridge. 1999   
+  [18]  Moravec, Hans. "The Universal Robot." In Arts Electronica, Facing the Future. MIT Press, Cambridge. 1999   
        
   [19]  Nash, Steven A. and Merkert, Jorn. Naum Gabo, Sixty Years of Constructivism. Prestel-Verlag, Munich. 1985  
        
   [20]  Papaikonomou, Evangelos. Biocybernetics, Biosystems Analysis, and the Pituitary Adrenal System. Nooy’s Drukkerij. Amsterdam. 1974  
        
-  [21]  Penny, Simon. “Why do we want our machines to seem alive?” Scientific American. September 1995   
+  [21]  Penny, Simon. "Why do we want our machines to seem alive?" Scientific American. September 1995   
        
-  [22]  Penny, Simon. “Systems Aesthetics and Cyborg Art: The Legacy of Jack Burnham.” Published in Sculpture, Vol.8 #1. January/February 1999   
+  [22]  Penny, Simon. "Systems Aesthetics and Cyborg Art: The Legacy of Jack Burnham." Published in Sculpture, Vol.8 #1. January/February 1999   
        
   [23]  Popper, Frank. Origins and Development of Kinetic Art. New York Graphic Society, Greenwich, Connecticut. 1968. 
        
@@ -117,10 +117,10 @@ Reprint of articles written by kinetic artists, originally published in journal 
   [25]  Rath, Alan. Robotics. Smart Art Press, Santa Fe. 1999. 
 Catalog of an exhibition held at Site Santa Fe, Oct. 31, 1998-Jan. 24, 1999  
        
-  [26]  Ray, Charles. Charles Ray. Scalo, Los Angeles. 1998 
+  [26]  Ray, Charles. Charles Ray. Scalo, Los Angeles. 1998. 
 Catalog of an exhibition held at the Museum of Contemporary Art in 1998.   
        
-  [27]  Read, Herbert. “Constructivism: the Art of Naum Gabo and Antoine Pevsner.” 
+  [27]  Read, Herbert. "Constructivism: the Art of Naum Gabo and Antoine Pevsner." 
 Published in Five European Sculptors. Arno Press. New York. 1969   
        
   [28]  Reichardt, Jasia. Cybernetic Serendipity, The Computer and the Visual Arts. Frederick A. Prager, 1969 
@@ -133,6 +133,6 @@ Catalogue of an exhibition held at University Art Gallery, Berkeley.
        
   [31]  Schöffer, Nicolas and Jean Tinguely. 2 Kinetic Sculptors, Nicolas Schöffer and Jean Tinguely. The Jewish Museum. New York, NY. 1965  
        
-  [32]  Walter, W. Grey. “An Imitation of Life.” Scientific American, p42-45. May 1950   
+  [32]  Walter, W. Grey. "An Imitation of Life." Scientific American, p42-45. May 1950   
        
   [33]  Wiener, Norbert. Cybernetics, or Control and Communication in the Animal and the Machine. MIT Press. Cambridge, MA. 1948
