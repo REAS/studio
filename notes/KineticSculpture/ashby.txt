@@ -1,0 +1,30 @@
+Ashby, Ross W. Design for a Brain. John Wiley & Sons, Inc. London. 1960
+
+[03, p2] 
+on two kinds of behavior	
+
+"The first is type is reflex behaviour. It is inborn, it is genetically determined in detail, it is a product, in the vertibrates, cheifly of centres in the spinal cord and in the base of the brain, and it is not appreciably modified by individual experience. The second type is learned behaviour. It is not inborn, it is not genetically determined in detail (more fully discussed in S. 1/9), it is a product chiefly of the cerebral cortex, and it is modified markedly by the organism's individual experiences."
+
+[03, p13]
+"We start by assuming that we have before us some dynamic system. i.e. something that may change with time. We wish to study it. It will be referred to as the 'machine', but the word must be understood in the widest possible sense, for no restriction is implied at the moment other than that it should be objective."
+
+[03, p14]
+"A variable is a measurable quantity which at every instant has a definite numerical value."
+
+[03, p15]
+"It will be appreciated that every real 'machine' embodies no less than as infinite number of variables, all but a few of which must of necessity be ignored."
+
+[03, p16]
+"a system is then defined as any set of variables that he selects form those available on the real 'machine'."
+this is an example of an abstraction
+"The state of a system at a given instant is the set of numerical values which its variables have at that instant."
+
+[03, p30]
+"There can be little doubt that any single quantity observable in the living organism can be treated at least in principle as a variable All bodily movements can be specified by co-ordinates. All joint movements can be specified by angles. Muscle tensions can be specified by their pull in dynes. Muscle movements can be specified by co-ordinates based on the bony structure or on some fixed external point, and can therefore be recorded numerically. A gland can be specified in its activity by its rate of secretion. Pulse-rate, blood-pressure, temperature, rate of blood-flow, tension of smooth muscle, and a host of other variables can be similarly recorded."
+
+[03, p36]
+example of an organism and its environment form a single state-determined system
+"...consider a butterfly and a bird in the air, the bird chasing the butterfly, and the butterfly evading the bird. Both use the air around them. Every movement of the bird stimulates the butterfly's eyes and this stimulation, acting through the butterfly's nervous system, will cause changes in the butterfly's wing movement. These movements act on the enveloping air and cause changes to the butterfly's position. So the processes go on. The bird has as environment the air and the butterfly, while the butterfly has the air and the bird. The whole may reasonably be assumed to be state-determined."
+
+//
+"The organism affects the environment, and the environment affects the organism: such a system is said to have 'feedback'...When the bird and butterfly manoeuvre in the air, each manoeuvre of one causes reactive changes to occur in the other."

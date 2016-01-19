@@ -1,0 +1,142 @@
+Jack Burnam, Beyond Modern Sculpture
+
+Part One : Sculpture as Object
+Part Two : Sculpture as System
+
+INTRODUCTION
+
+[07, p2]
+the term 'technics' is a combination of science and technology
+
+[07, p5]
+"What connects art to science is an abiding similarity between the artistic and scientific mind : it is as if both were motivated by the same pangs of discovery and a desire for the consummation of ideas into beautiful totalities."
+
+[07, p10]
+"The object denotes sculpture in its traditional physical form, whereas the system (an interacting assembly of varying complexity) it the means by which sculpture gradually departs from its object state and assumes some measure of likelike activity."
+
+
+CHAPTER FIVE, SCULPTURE AND AUTOMATA
+
+human and animal replicas created over the last ten thousand years.
+fetishes, idols, amulets, funeral images, dolls, waxworks, manikins, puppets, and automata -- all below sculpture as a fine art.
+
+[07, p185]
+"Automata may be defined as all seemingly self-propelled or self-animated images of animals or men. The history of automata has always run close to that of technology. Both feats of automata and the progression of outward forms assumed by automata indicate a parallel pulse in modern art and technology."
+
+
+CHAPTER SIX, KINETICISM: THE UNREQUITED ART
+
+[07, p218]
+quote from Jean Tinguely
+"For me, the machine is above all an instrument that permits me to be poetic. If you respect the machine, if you enter into a game with the machine, then perhaps you can make a truly joyous machine -- be joyous, I mean free."
+
+//definitions in terms
+kinetic places emphasis on _motion_ and its effects, not intelligence, anthropomorphism, temporal sequence, or coordination (these were all goals of automata). Concerned with motions resulting from forces directly connected to physical systems.
+
+Kineticism and Kineticist were coined by the American art historian Willoughby Sharp to "distinguish interest in the artistic effects of motion"
+
+Kinematics was defined in 1830 by Andre Ampere as the nature of machine relations being about direction and velocity of _motions_ as opposed to forces. ideal. motions unattached to forces or objects
+
+!!! kinetic is about materiality and kinematics is about ideals.
+
+[07, p221]
+"Tinguely speaks of making a 'joyous machine' -- one that is, in fact 'free'. This freedom is actually an attempt to divert the essential restrictive nature of the machine. Artists have been all too conscious of the machine's propensity to restrict change and their desire has been to allow the machines new degrees of freedom -- even, on occasion, by destroying it."
+
+[07, p220]
+"for the first time in art, outside the area of pure automata, Kinetic Art presents the baffling problem of an art form in which essential parts of its working order are purposely hidden from the observer. Often are effects without visible cause."
+
+[07, p218]
+"Compared to automata, what is Kinetic Art? Most specifically, Kinetic Art has been a gradual attempt throughout this century to produce nonrepresentational art using the parameters of real time and motion. Unlike automata development, it has not been an art rooted in traditional craftsmanship and mechanical competence. Instead, Kinetic Art has been a product of makeshift necessity, stemming from deeply felt needs of avant-garde painters and sculptors. Besides an unwillingness to produce realistic facsimiles of men and animals, the short history of Kinetic Art has been marked by the comparative mechanical incompetence of its champions. What slight technical facility Kinetic Artists have demonstrated has usually been the result of technical assistance contributed by sympathetic technicians. ... The technician has consistently failed to make machinery conform to the older aesthetic precepts of our culture; instead, it has been the artist who was forced to try and make his art relevant to the prevailing technology. The Kinetic Artist, along with his enemies, has often sensed that he has united his art with forces inherently at odds with artistic endeavor. Even the engineer with his superior training has so far not produced superior Kinetic Art, usually the opposite. Successful Kinetic Art until now has either defied or trivialized the principles of mechanical invention."
+
+[07, p270]
+Len Lye on Loop
+"The Loop, a twenty-two foot strip of polished steel, is formed into a band, which rests on its back on a magnetized bed. The action starts when the charged magnets pull the loop of steel downwards, and then release it suddenly. As it struggles to resume its natural shape, the steel band bounds upwards and lurches from end to end with simultaneous leaping and rocking motions, orbiting powerful reflections at the viewer and emitting fanciful musical tones which pulsate in rhythm with The Loop. Occasionally, as the boundless Loop reaches its greatest height, it strikes a suspended ball, causing it to emit a different yet harmonic musical note, and so it dances to a weird quavering composition of its own making."
+
+!!! 
+[07, p221]
+ talks about totalitarian machines, philosophy of the 19th century and how artists responded in the 20th century...
+
+[07, p223]
+E.J. Marey and E. Muybridge produced the first scientific record of organic motion.
+Marey analyzed birds in flight from different camera angles
+Muybridge was more interested in 2D representations
+
+organic kinematics
+birds in flight, trotting horses, people walking down stairways
+
+[07, p227]
+"Yet, by aesthetic inversion, Duchamp had transformed the wheel into an optical device."
+
+
+CHAPTER EIGHT, ROBOT AND CYBORG ART
+
+[07, p312] 
+quote from Weiner's Human Use of Human Beings (p9)
+"To indicate the role of the message in man, let us compare human activity with activity of a very different sort; namely, the activity of the little dancing figures which dance on top of a music box. These figures dance in accordance with a pattern, but it is a pattern which is set in advance, and in which the past activity of the figures ahs practically nothing to do with the pattern of their future activity. There is a message, indeed [one way] but it goes from the machinery of the music box to the figures, and stops there. The figures themselves have not a trace of any communication with the outer world, except this one-way stage of communication with the music box. They are blind, deaf, and dumb, and cannot vary their activity in the least from the conventional pattern."
+- this applies to nearly all free-standing kinetic sculpture in existence. 
+they to not 'respond to man in any intelligent fashion'. "They are dead souls made alive through 'art' and prearranged mechanized motion."
+
+all living creatures communicate with their environments and other beings within it
+
+reciprocated messages are the primary ways that being communicate with each other
+
+traditional art is a one-way communication, one-way message
+
+// my comment
+traditional art is an open system, no feedback
+
+
+---->
+
+[07, p313]
+"In the past such an interaction was impossible -- or at best a very one-sided affair. It was, to place it within a cybernetic context, a relationship between a complex, self-stabilizing, goal seeking system(man) and an inert object (a stone statue perhaps) -- or man and a work of art designed as a mechanical system seeking stability through pseudo-random motion (a Calder mobile) -- or man and an aesthetic system with a determinate but very complex program (motion pictures, symphonic music, Kinetic Art. etc.). Still, the result in every case was not communication but one-way stimlation for the human party involved."
+
+Julio Le Parc wrote a critique about art-view relationships
+
+cyborg art - the cybernetic organism as an art form ( this is possibly the last and ultimate stage of sculpture )
+
+a calder mobile does not act any more than a ball of yarn batted by a kitten
+
+cybernetic had its origins in mathematical information processing and the development of control mechanisms for adaptable machines
+Norbert Wiener published Cybernectics: Or Control and Communication in the Animal and the Machine. 
+-- the dream of the automaton creators
+-- a fusing together of pure mathematics, electrical engineering, and neurophysiology into a science explaining the organization of complex systems -- systems which think and show some degree of environmental adaptability.
+
+[07, p315]
+negative feedback - fractional return of the energy output of a system in the form of information guiding the system's future activities
+
+cybernetics is primarily a science of organization
+
+the principle of homeostasis
+
+[07, p318]
+systems
+"The concept system itself is a pure abstraction, an assembly of isolable properties studied in terms of their transformations, either alone (closed) or in relation to other systems (open)."
+
+a property of all systems is stability or instability
+the most stable system is an inert object with no moving parts
+
+another important principle of system and organization is 'coupling'. putting pieces together
+
+[07, p319] 
+instability 
+"Instability lies inherent in all systems and the probability that it will appear rises at an exponential rate as the systems include more moving parts and higher levels of complexity. In effect, the Kinetic sculptor is no longer building objects with potentially infinite life spans, but systems with a life that in many cases can be predicted."
+
+- kinetic sculpture must be checked and serviced like an automobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

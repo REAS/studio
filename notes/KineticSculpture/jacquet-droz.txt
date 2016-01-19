@@ -1,0 +1,33 @@
+Pierre Jacquet-Droz
+Swiss 1721-1790
+Young Writer, circa 1770
+
+/////////////////
+[14] The Machine
+
+[14, p21]
+"When the mechanism is started, the boy dips his pen in the inkwell, shakes it twice, places his hand at the top of the page, and pauses. As the level is pressed again, he begins to write, slowly and carefully, distinguishing in his characters between light and heavy strokes."
+
+toured every court in Europe, the delight of the wealthy
+
+the most advanced writer ever built up to that time
+
+the goal was not just to build a mechanism of highest quality, but also to present a mysterious artificial being -- a mechanical man
+- the effect (not the method) that was important
+
+the only writer to distinguish between thick and thin strokes
+
+
+//////////////////
+
+[08] Chapius
+
+28 inches tall and carved in wood
+
+you could actually program by taking out a disk from back and changing values
+
+"To compose a text, the disc (7) is taken out and the wedges are adjusted to produce the desired letters. Frequent adjustments have to be made before everything is exactly right. The discs of the cams, which are 7/10mm thick, must be placed very exactly in relation to the corresponding levers, or else they will pass from one cam to the next and the automaton will only produce a scrawl."
+
+- analog tech
+
+to reduce friction and wear, part of the levers pressing into the cams were faced with ruby

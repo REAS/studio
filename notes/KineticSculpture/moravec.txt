@@ -1,0 +1,30 @@
+Hans Moravec, The Universal Robot in Arts Electronica, Facing the Future
+
+(Moravec is head of CMU mobile robot lab)
+
+[18, p116]
+"Today's best computer-controlled robots are like the simpler invertebrates. A thousand-fold increase in computer power in the next decade should make possible machines with reptile-like sensory and motor competence. Properly configured, such robots could do in the physical world what personal computers do now in the world of data -- act on our behalf as literal-minded slaves."
+
+"Instincts which predispose the nature and quantity of work we enjoy probably evolved during the 100,000 years our ancestors lived as hunter-gatherers. Less than 10,000 years ago the agricultural revolution made life more stabile, and richer in goods and information. But, paradoxically, it requires more human labor to support an agricultural society than a primitive one, and the work is of a different, unnatural kind, out of step with the old instincts. The effort to avoid this work has resulted in domestication of animals, slavery, and the industrial revolution."
+
+"Our minds were evolved to store the skills and memories of a stone-age life, not the enormous complexity that has developed in the last 10,000 years. We've kept up, after a fashion, through schooling, written records stored outside the body, and recently machines that can do some of our thinking entirely without us."
+
+[18, p117] 
+on ai vs robotics
+"While the pure reasoning programs did their jobs about as well and about as fast as college freshman, the best robot control programs took hours to find and pick up a few blocks on a table. Often these robots failed completely, giving a performance much worse than a six-month-old child.
+we can make robots to play chess at a master level but we can't even make one that can find an appropriate piece and move it
+"In hindsight it seems that, in an absolute sense, reasoning is much easier than perceiving adn acting, a position not hard to rationalize in evolutionary terms. The survival of human beings (and their ancestors) has depended for hundreds of millions of years on seeing and moving in the physical world, and in that competition large parts of their brains have become efficiently organized for the task. But we didn't appreciate this monumental skill because it is shared by every human being and most animals, it is commonplace. On the other hand, rational thinking, as in chess, is a newly acquired skill, perhaps less than 100,000 years old. The parts of the brain devoted to it are not well organized, and, in an absolute sense, we're not very good at it. But until recently we had no competition to show us up."
+
+the cybernetic approach is very slow because it attempts to imitate the nervous system
+
+ai has successfully imitated some aspects of rational thought
+
+
+*** a new approach has emerged that is simulating biological evolution
+
+[18, p118]
+"Robotics research is imitating the evolution of animal minds, adding capabilities to machines a few at a time, so that the resulting sequence of machine behaviors resembles the capabilities of animals with increasingly complex nervous systems."
+an effor to build intelligence from the bottom up
+
+[18, p188]
+"The best robots today are controlled by computers just powerful enough to simulate the nervous system of an insect, cost as much as houses, and so find only a few profitable niches in society (among them, spray painting and spot welding cars and assembling electronics).

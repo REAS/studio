@@ -1,0 +1,51 @@
+Ronald C. Arkin, Behavior Based Robotics
+
+CHAPTER 1, WHENCE BEHAVIOR?
+
+[02, p8]
+W. Grey Walter and the Machina Speculatrix
+1. parsimony, simple is better
+2. exploration/speculation, the system never remains still except when recharging
+3. attraction (positive tropism), the system is movtivated to move toward something
+4. aversion (negative tropism), the system moves away from certain negative stimuli
+5. discernment, ability to distinguish between productive and unproductive behavior
+
+
+[02, p10]
+Valentino Braitenberg followed this tradition in 1984 with Vehicles
+
+1.3.2 Reactive Systems
+"Simply put, reactive control is a technique for tightly coupling perception and action, typically in the context of motor behaviors, to produce timely robotic response in dynamic and unstructured worlds.
+- an individual behavior: stimulus/response pair
+- attention: prioritize dependent on the environment
+- intention: internal goals and objectives
+- overt/emergent behavior: interaction of individual behaviors
+- reflexive behavior: tight sensor-effect arcs also from Brooks (1991b)
+- situatedness: doesn't act upon representations, but reality itself
+- embodiment: spatial reality
+- emergence: intelligence is a product of agent and environment together
+
+
+CHAPTER FOUR: BEHAVIOR BASED ARCHITECTURES
+
+[02, p125]
+definition for robot architecture
+"Robotic architecture is the discipline devoted to the design of highly specific and individual robots from a collection of common software building blocks."
+"An architecture describes a set of architectural components and how they interact."
+"Architectures are constructed from components, with each specific architecture having its own peculiar set of building blocks. The ways in which these building blocks can be connected facilitate certain types of robotic design in given circumstances. Organizing principles underlie a particular architecture's commitment to its component structure, granularity, and connectivity."
+
+all architectures provide for sequential tasks, conditional branching, provide for iterative constructs and are therefore computability equivalent
+
+
+Rodney Brooks
+
+(1991b)
+Behavior based methodology (quoted form Arkin)
+"Situatedness: the robot is an entity entirely situated and surrounded by the real world. It does not operate upon abstract representations of reality, but rather reality itself.
+Embodiment: A robot has a physical presence (a body). this spatial reality has consequences in its dymanimc interactions with the world that cannot be simulated faithfully.
+Emergence: Intelligence arises from the interacitons of the robotic agent with its environment. It is not a property of either the agent or the environment in isolation but is rather a result of the interplay between them."
+
+situatedness is also a two-way coupling between the organism and the environment
+
+
+

@@ -1,0 +1,23 @@
+Artificial Intelligence, The Very Ideas
+John Haugeland
+
+Cybernetics is 'systems' or 'control' theory
+originally developed by Norbert Wiener, 1948
+
+for a system S and desired output O, build S so that it measures its own output, detects any errors therein, and then automatically compensates for them to produce O.
+
+the fundamental principle of negative feedback (compensation).
+
+feedback is a deep concept, examples everywhere
+
+feedback examples:
+thermometer - if the temp fails, the heater turns on to bring it back up
+cruise control on a car
+
+"Let the output of a system be the variable or result that is of concern (e.g., the temperature); let the input be those external factors that affect the output ..."
+
+"Consider three balls: one resting on a flat, level surface; one resting at the bottom of a rounded valley; and one resting at the top of a rounded hill. All three are in equilibrium -- that is, perfectly balanced -- but they will behave differently if slightly perturbed. The first is in neutral equilibrium; if it rolled a little, that would introduce no new forces (no feedback). The second is a stabile equilibrium: it rolled a little, gravity would tend to pull it back down where it was (negative feedback). The third is in unstable equilibrium: if it rolled a little, gravity would accelerate its motion and roll it all the way off the hill (positive feedback).
+
+cybernetics failed as a method for AI, real organisms are far more complex in operation than cybernetics can approximate through it's numerical representation
+
+

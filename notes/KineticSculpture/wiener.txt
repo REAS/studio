@@ -1,0 +1,19 @@
+Scientific American article by Norbert Wiener
+Cybernetics
+
+control and communication - "attempts to find the common elements in the functioning of automatic machines and of the human nervous system."
+-- feedback mechanisms, example of picking up a pencil
+
+- this changes the way we think of the operation of our bodies
+- creates a circular process (nervous system -> muscles <font color="#CCCC99">|</font> sense organs -> nervous system -> muscles)
+
+
+///////////////////////
+
+another way to look at systems view vs perceptual view is to think of a person picking up a pen, from Wiener's Cybernetics
+
+"Suppose that I pick up a pencil. To do this I have to move certain muscles. Only an expert anatomist knows what all these muscles are, and even an anatomist could hardly perform the act by a conscious exertion tf the will to contract each muscle concerned in succession. Actually what we will is not to move individual muscles but to pick up the pencil. Once we have determined on this, the motion of the arm and hand proceeds in such a way that we may say that the amount by which the pencil is not yet picked up is decreased at each stage. This part of the action is not in fulll consciousness."
+
+so the systems view is about the individual muscles being stimulated in the right amount and the right order and the perceptual view is about picking up the pencil
+
+

@@ -1,0 +1,42 @@
+Valentino Braitenberg 
+Vehicles, Experiments in Synthetic Psychology
+
+a cybernetician, neuroanatomist, musician
+
+[04, p20]
+"A psychological consequence of this is the following: when we analyze a mechanism, we tend to overestimate its complexity. In the uphill process of analysis, a given degree of complexity offers more resistance to the workings of our mind than it would if we encountered it downhill, in the process of invention. We have already seen this happen when the observer of Vehicle 4b conjectured that the vehicle does some thinking before it reaches a decision, suggesting complicated internal processes where in reality there was nothing but a threshold device waiting for sufficient activation. The patterns of behavior described in the vehicles of type 4a undoubtedly suggest much more complicated machinery that that which was actually used in designing them."
+
+
+Similarities in vehicles 1-3, the more the sensor excited the faster the motor or vice versa, they are monotonic
+
+Vehicle 1, the simplest vehicle
+- the speed of the motor is controlled by a sensor. motion is always forward.
+- comes to rest when the force of friction becomes greater than the force exerted by the motor
+- sensor can be any kind. light, sound, temperature
+- elaborate on the temperature example
+- if small and in a turbulent environment such as a body of water it would be moved around by its environment, but always moving forward
+"Imaging, now, what you would think if you saw such a vehicle swimming around in a pond. It is restless, you would say, and does not like warm water. But it is quite stupid, since it is not able to turn back to the nice cold spot it overshot in its restlessness. Anyway, you would say, it is ALIVE, since you have never seen a particle of dead matter move around quite like that."
+
+
+Vehicle 2, fear and aggression
+- descendent of vehicle 1, the more the sensor is excited the faster the motor goes
+- two sets of motors and sensors -> three possible vehicles (a, b, c)
+- if exactly facing the source will fun into it, in a kinematic world this is very possible but in a kinetic world highly unlikely, always small forces acting on the vehicle
+- is the systems world
+- in the perception world, vehicle 2A is a coward and vehicle 2B is aggressive
+
+
+Vehicle 3, love
+- "crude" vehicles, only excited, nothing calming -> "violence" "cowardice"
+- inverse relation, slows down when close and speeds up when distant
+- will spend most of its time in the proximity of the stimulus
+- crossed connection is like(explorer), other is love
+- complex vehicle 3C, mutilsensory (light, temperature, oxygen concentration, amount of organic matter
+
+[04, p12]
+"This is now a vehicle with really interesting behavior. It dislikes high temperatures, turns away from hot places, and at the same time seems to dislike light bulbs with even greater passion, since it turns toward them and destroys them. On the other hand it definitely seems to prefer a well-oxygenated environment and one containing many organic molecules, since it spends much of its time in such places. but it is in the habit of moving elsewhere when the supply of either organic matter of (especially) oxygen is low. You cannon help admitting the Vehicle 3c has a system of VALUES, and, come to think of it, KNOWLEDGE, since some of the habits it has, like destroying light bulbs, may look quite knowledgeable, as if the vehicle knows that light bulbs tend to heat up the environment and consequently make it uncomfortable to live in. ..."
+
+
+Vehicle 4, Values and Special Tastes
+- INSTINCTS
+- thresholds give the appearance of PONDERING their DECISIONS
