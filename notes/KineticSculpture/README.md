@@ -4,9 +4,9 @@ From 2001 to 2003, I was searched for information on the origins of interactive 
 
 In the past decade, conceptual and technical innovations within the robotics and electronics communities have opened up new possibilities for kinetic sculpture. A contemporary group of artists are creating work where the focus is not on the movement of the sculpture but on its behavior -- how it reacts and actively responds to its dynamic environment.
   
-These pages present raw notes from my exploration into this history. They are presented _as is_ and may contain grammatical and spelling errors due to quick typing. Comments and questions are welcome and may be addressed to: reas at reas dot com
+These pages present raw notes from my exploration into this history. They are presented _as is_ and may contain grammatical and spelling errors due to quick typing. 
     
-Kinetic Sculptors
+#### Kinetic Sculptors
 
 gabo.txt, Naum Gabo b.1890  
 moholy_nagy.txt, Laszlo Moholy-Nagy b.1895   
@@ -29,30 +29,31 @@ Ken Rinaldo
 Tim Hawkinson  
 
 
-Theory
+#### Theory
 
-Rosalind Krauss
-Jack Burnham
-Force Fields
-
-
-Automata
-
-automata.txt, General notes
-vaucanson.txt, Jacques Vaucanson b.1709
-jacquet-droz.txt, Pierre Jacquet-Droz b.1721
+krauss.txt, Rosalind Krauss  
+burnham.txt, Jack Burnham  
+force_fields.txt, Force Fields  
 
 
-Cybernetics &amp; Robotics
+#### Automata
 
+automata.txt, General notes  
+vaucanson.txt, Jacques Vaucanson b.1709  
+jacquet-droz.txt, Pierre Jacquet-Droz b.1721  
+
+
+#### Cybernetics &amp; Robotics
+  
 Norbert Wiener  
-ashby.txt, Ross W. Ashby
-braitenberg.txt, Valentino Braitenberg
-haugeland.txt, John Haugeland
-arkin.txt Ronald C. Arkin
-moravec.txt Hans Moravec
+ashby.txt, Ross W. Ashby  
+braitenberg.txt, Valentino Braitenberg  
+haugeland.txt, John Haugeland  
+arkin.txt Ronald C. Arkin  
+moravec.txt Hans Moravec  
 
 
+#### Bibliography
 
 The references presented below range from short articles to books representing years of research. Most references address the topic of kinetic sculpture, but there are a few references on automata, cybernetics, and robotics. I found the references with their numbers in italics to be the most useful. 
  
