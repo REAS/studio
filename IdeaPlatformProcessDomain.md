@@ -1,6 +1,3 @@
-Foreword to Blindspot
-Casey Reas
-
 [ Draft 05 / 22 January 2016, title changed 15 July ]
 
 
