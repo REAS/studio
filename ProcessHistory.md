@@ -7,7 +7,9 @@ The Process series starts its numbering at 4 because of a series of texts titled
 The first public exhibition of works from the Process series was the _Process / Drawing_ show at the bitforms gallery from 4 March - 3 April 2005. This show debuted of Process 4, Process 5, and Process 6 as well as archival pigment prints related to the Processes and other works and collaborations. At this time, the Process works were installed with the instructions and software side by side. As shown in Figure 1, the instructions were printed as archival pigment prints and attached to the wall behind a thin sheets of plexiglass. The software was run on custom-built PCs without cases screwed to the wall near the floor. Monitors (17" LCD) were mounted at eye level with cables running between the PCs and the screens. When the same work was presented at the DAM Gallery in Berlin in the fall of 2005, the format had changed slightly. As shown in Figure 2, the software was running on Mac Mini machines with their covers removed instead of the custom-built PCs. 
 
 ![Figure 1](https://github.com/REAS/studio/blob/master/images/process-history/2005-bitforms.jpg "Figure 1 alt")
+Figure 1. Process 5 at the bitforms gallery in spring 2005.
 
-![Figure 2](https://github.com/REAS/studio/blob/master/images/process-history/2005-dam.jpg "Figure 2 alt")
+![Figure 2](https://github.com/REAS/studio/blob/master/images/process-history/2005-DAM.jpg "Figure 2 alt")
+Figure 2. Process 6 at the DAM Gallery in fall 2005.
 
 The _Process / Form_ show at the bitforms gallery from 6 March - 12 April 2008 was the first to present the Process works as single-channel dyptych projections. This show debuted Process 13 and Process 18. 
