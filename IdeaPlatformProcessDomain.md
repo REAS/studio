@@ -1,10 +1,10 @@
 Foreword to Blindspot
 Casey Reas
 
-[ Draft 05 / 22 January 2016 ]
+[ Draft 05 / 22 January 2016, title changed 15 July ]
 
 
-###IDEA, PLATFORM, PROCESS, DOMAIN
+###THOUGHTS ON SOFTWARE FOR THE VISUAL ARTS
 
 I make things — all the time. In the studio, I use tools every day. Some of the tools are “hard” like a screwdriver but most of them are “soft.” I move back and forth between making software tools, using my tools, and using tools created by others. 
 
