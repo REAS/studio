@@ -21,7 +21,7 @@ The _Process / Form_ show at the bitforms gallery from 6 March - 12 April 2008 w
 ![Figure 3](https://github.com/REAS/studio/blob/master/images/process-history/2008-bitforms.jpg "Figure 3")
 _Figure 3. Process 14 and 18 at the bitforms gallery in spring 2008._
 
-![Figure 4](https://github.com/REAS/studio/blob/master/images/process-history/2008-panels.jpg "Figure 4")
+![Figure 4](https://github.com/REAS/studio/blob/master/images/process-history/2008-panels.png "Figure 4")
 _Figure 4. Fabrication diagram for the projection panels in use 2008 - 2012._
 
 The Museum of Contemporary Art North Miami presented the most refined presentation of the single-channel Process dyptychs in the Abstract Cinema show from 26 March - 10 May 2009. Figure 5 shows Process 16 as presented in a black-box room using one of the same projectors and projection panel sets from the bitforms exhibition the year prior. 
