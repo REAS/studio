@@ -1,4 +1,4 @@
-[Draft 15 June 2016, getting some thoughts down in a rough way...]
+[Draft 15 June 2016]
 
 ###The History of the Process Works
 
