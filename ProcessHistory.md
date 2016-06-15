@@ -42,6 +42,6 @@ _Figure 6. Process 10 (Installation 1) a. k. a. TI at the BANK gallery in Los An
 _Figure 7. Process 11 (Installation 1) at the bitforms gallery Seoul, 2006._
 
 ![Figure 8](https://github.com/REAS/studio/blob/master/images/process-history/2010-DAM.jpg "Figure 8")
-_Figure 8. Detail of Process 18 prints at the DAM Gallery, 2010._
+_Figure 8. Detail of Process 18 c-prints at the DAM Gallery, 2010._
 
 
